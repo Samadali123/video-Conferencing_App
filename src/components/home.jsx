@@ -26,7 +26,7 @@ const Home = () => {
         />
         <button 
           onClick={handleJoinRoom} 
-          className='px-5 py-2 w-full sm:w-1/3 rounded-lg bg-cyan-600 text-white hover:bg-cyan-400 hover:text-black transition-all duration-300'>
+          className='px-5 py-2 w-full sm:w-1/3 rounded-lg bg-black text-white hover:text-cyan-500 hover:text-black transition-all duration-300'>
           Start Call
         </button>
       </div>

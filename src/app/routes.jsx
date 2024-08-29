@@ -3,8 +3,6 @@ import { Route, Routes } from 'react-router-dom'
 import Home from '../components/home'
 import Roompage from '../components/room'
 
-
-
 const routes = () => {
   return(
       <Routes>
@@ -13,5 +11,6 @@ const routes = () => {
       </Routes>
   )
 }
+
 
 export default routes
