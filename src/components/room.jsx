@@ -38,7 +38,7 @@ const Room = () => {
             showTextChat: true,
             showUserList: true,
             showRemoveUserButton: true,
-            layout: "Grid",
+            layout:  "Auto",
             showPinButton: true,
             enableUserSearch: true,
             scenario: {
